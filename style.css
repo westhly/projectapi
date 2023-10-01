@@ -1,0 +1,29 @@
+ul {
+    display: flex;
+    flex-direction: column;
+    
+    
+   
+}
+
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    font-family: system-ui;
+    
+}
+.img{
+    width: 20%;
+
+
+}
+.genero{
+
+}
+.location{
+
+}
