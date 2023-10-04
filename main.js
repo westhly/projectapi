@@ -10,6 +10,7 @@ const request = async () => {
         console.log(resp)
 
         getProfile(resp.results)
+        console.log(getProfile)
 
     }catch(err){
         console.log(err)
